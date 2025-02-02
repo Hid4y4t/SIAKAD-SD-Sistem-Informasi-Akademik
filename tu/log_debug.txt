@@ -1,0 +1,37 @@
+Data yang diterima: Array
+(
+    [id_siswa] => 9
+    [selectedMonths] => ["11 2024"]
+    [totalBayar] => 600
+    [printNota] => 1
+    [keterangan] => 
+)
+
+Kesalahan pada server: Unknown column 'total_bayar' in 'field list'
+Data yang diterima: Array
+(
+    [id_siswa] => 9
+    [selectedMonths] => ["11 2024"]
+    [totalBayar] => 60000
+    [keterangan] => 
+)
+
+Kesalahan pada server: Unknown column 'total_bayar' in 'field list'
+Data yang diterima: Array
+(
+    [id_siswa] => 9
+    [selectedMonths] => ["11 2024"]
+    [totalBayar] => 600
+    [keterangan] => 
+)
+
+Kesalahan pada server: Unknown column 'tanggal_transaksi' in 'field list'
+Data yang diterima: Array
+(
+    [id_siswa] => 9
+    [selectedMonths] => ["11 2024"]
+    [totalBayar] => 600
+    [keterangan] => 
+)
+
+Kesalahan pada server: Table 'sekolah_administrasi.detail_nota' doesn't exist
